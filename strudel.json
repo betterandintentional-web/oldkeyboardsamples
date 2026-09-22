@@ -1,5 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/betterandintentional-web/oldkeyboardsamples/main/",
+  "backon741": "samples/backon741.wav",
+  "backon742": "samples/backon742.wav",
+  "backon743": "samples/backon743.wav",
   "BZZhorn": "samples/BZZhorn.wav",
   "Comeon": "samples/Comeon.wav",
   "DJ": "samples/DJ.wav",
